@@ -1,1 +1,3 @@
+projectspring/controllers/interfaces/IArticle.class
+projectspring/dtos/ArticleDTO.class
 projectspring/config/SwaggerConfiguration.class
