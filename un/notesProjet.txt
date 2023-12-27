@@ -1,0 +1,9 @@
+cd ~/visual-projects/projectspring1/un
+mvn clean install
+mvn dependency:tree
+
+
+
+cd ~/.local/share/Trash/files
+
+
